@@ -18,6 +18,6 @@ El juevo se divide en 3 fases
 El objetivo del juego es obtener la mejor combinacion de cartas y llevarse la mayor cantidad de plata del pozo. Los jugadores se pueden retirar cuando deseen.
 
 # Diagrama de clases UML
-
+! [Diagrama del juego] https://app.diagrams.net/#G1AWl3qStPn8HwpcpcOPxkF7hzrWZfBJAp#%7B%22pageId%22%3A%22Wa5oEoK23FOL64DwbEDW%22%7D
 
   
